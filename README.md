@@ -1,6 +1,6 @@
 # Coding Assessment
 
-Datasets needed to complete the code assessment.
+This repository contains datasets needed to complete the coding assessment.
 
 **Part I:**
   - *patients.csv*
