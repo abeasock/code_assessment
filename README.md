@@ -25,7 +25,7 @@ Save all the code for Part II in a new Python script named *part_2.py*.
 For this exercise, register for an API key on World Weather Online. You can sign up for their Premium Weather API for a free 60 day trial (no credit card needed to sign up) and this will give you access to historical weather data. https://developer.worldweatheronline.com/signup.aspx
 
 For each observation in locations.csv, make a call to the API for that time and location and retrieve the data as JSON format. The following weather features from the API should be collected:
-*areaName*, *population*, *tempF*, *weatherDesc*, *precipMM*, *cloudcover*
+*areaName*, *population*, *tempF*, *weatherDesc*, *precipMM*, *cloudcover* <br>
 Return a Pandas DataFrame that contains the original variables from *locations.csv* plus the ones listed above to be collected from the API. Save the new DataFrame as a csv files named *locations_weather.csv*
 
 ### Submitting
