@@ -10,9 +10,9 @@ Datasets needed for exercise:
 -	appointments.csv
 
 Please write code to accomplish the following steps and save all the code for Part I in a Python script named *part_1.py*.
-  1. Join the two datasets and keep only matching records.
-  2a. Derive a new variable day_of_week to provide the day of the week the appointment was scheduled for.
-  2b. Take a frequency count of day_of_week to examine what day of the week patients are most likely to not show up for an appointment.
+  1. Join the two datasets and keep only matching records. <br>
+  2a. Derive a new variable day_of_week to provide the day of the week the appointment was scheduled for.<br>
+  2b. Take a frequency count of day_of_week to examine what day of the week patients are most likely to not show up for an appointment. <br>
   3. Bin the ages into 10 groups and plot status by age. 
   4. Build a basic model to predict whether a patient shows up for their appointment. The intent of this is to show you understand the basic steps to building a model…the model may not be strongly predictive and this is ok. 
 
